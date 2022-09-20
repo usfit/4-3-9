@@ -1,12 +1,3 @@
 # 4-3-9
 
-GET https://blog.kata.academy/api/user
-
-
-{
-    "user": {
-        "username": "usfit",
-        "email": "dima050595fedorov@gmail.com",
-        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzMjYyNWUwM2NmNzA1MWIwMDgyYTQ3NCIsInVzZXJuYW1lIjoidXNmaXQiLCJleHAiOjE2Njg3MDAyNjksImlhdCI6MTY2MzUxNjI2OX0.gHQ9dqL1UoZcOAiB8YGDWlKtdcPvbf68S8qkQVn4vNk"
-    }
-}
+![Image text](https://github.com/usfit/4-3-9/blob/main/%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F.jpg)
